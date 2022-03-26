@@ -1,3 +1,8 @@
+/* A C++ Code to find the Arithmetic Mean
+   of given two numbers.
+   -Shreyash Saripalli
+*/
+
 #include <iostream>
 #include <string>
 #include <vector>
